@@ -1,3 +1,5 @@
 .bundle/
 log/*.log
 pkg/
+gemfiles/*.lock
+spec/dummy/log/*.log
